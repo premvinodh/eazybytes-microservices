@@ -15,6 +15,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 |:---------:|-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------:|
 | 	1.		| Section 2: Accounts - create api     																				| b72bb3ca012138ee4437ca011192b700a2e2214a				|
 | 	2.		| Section 2: Accounts - read api     																				| d6883bcae1f8244044f6dd2bd6ff87120a0c7cb6				|
+| 	3.		| Section 2: Accounts - update api     																				| 49177e9ca27599c2f68f92aeb16a9c8579ff5ced				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

@@ -18,6 +18,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	3.		| Section 2: Accounts - update api     																				| 49177e9ca27599c2f68f92aeb16a9c8579ff5ced				|
 | 	4.		| Section 2: Accounts - delete api     																				| 18a7e88800e3ab1069d44daa102c8b706b9fac1d				|
 | 	5.		| Section 2: Accounts - added global exception handler to handle all Exceptions  									| c95b38333b069219d81eea0b9396535badf4f2e3				|
+| 	6.		| Section 2: Accounts - Performing input validations on all account microservice api endpoints  					| 79f3c7297d50788b8216104927beebcaecb111db				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

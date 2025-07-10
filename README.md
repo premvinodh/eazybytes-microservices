@@ -21,6 +21,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	6.		| Section 2: Accounts - Performing input validations on all account microservice api endpoints  					| 79f3c7297d50788b8216104927beebcaecb111db				|
 | 	7.		| Section 2: Accounts - Updating audit columns using spring data jpa  												| 079851af35ca558a934df56c617fbdedbf14f57f				|
 | 	8.		| Section 2: Accounts - Added openapi dependency - springdoc-openapi-starter-webmvc-ui								| 2973accd30ca0af237eba7ef5262349466a6120d				|
+| 	9.		| Section 2: Accounts - Annotations to be used with non-standard packaging for controllers, etc.					| 3ba75ffdb7ade581a76e4699989d51c93778d877				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

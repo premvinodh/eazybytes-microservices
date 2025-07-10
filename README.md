@@ -20,6 +20,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	5.		| Section 2: Accounts - added global exception handler to handle all Exceptions  									| c95b38333b069219d81eea0b9396535badf4f2e3				|
 | 	6.		| Section 2: Accounts - Performing input validations on all account microservice api endpoints  					| 79f3c7297d50788b8216104927beebcaecb111db				|
 | 	7.		| Section 2: Accounts - Updating audit columns using spring data jpa  												| 079851af35ca558a934df56c617fbdedbf14f57f				|
+| 	8.		| Section 2: Accounts - Added openapi dependency - springdoc-openapi-starter-webmvc-ui								| 2973accd30ca0af237eba7ef5262349466a6120d				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

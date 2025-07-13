@@ -24,6 +24,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	9.		| Section 2: Accounts - Annotations to be used with non-standard packaging for controllers, etc.					| 3ba75ffdb7ade581a76e4699989d51c93778d877				|
 | 	10.		| Section 2: Accounts - @Tag, @Operation, @ApiResponses	for post operation											| 96cc0ad42857c915ab9c4b41b329b1aa86e73c5a				|
 | 	11.		| Section 2: Accounts - @Operation @ApiResponses for get, put and delete operations									| 8aedd5e8e2edf8601134642efd575baa78db0b87				|
+| 	12.		| Section 2: Accounts - @OpenAPIDefinition																			| 58b482cb945fc370eddfbc861c42cd9355240afe				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

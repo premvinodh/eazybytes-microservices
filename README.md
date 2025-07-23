@@ -28,6 +28,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	13.		| Section 2: Accounts - @Schema both at class level and also at the field level and @Schema in @ApiResponse of status code 500		| 5d238b85a7c3f83a45335ba7084d1814072b603a				|
 | 	14.		| Section 2: Loans - Complete code of Loans microservice																			| 4ec8f08d3126f4d7fbe7602cb2f32e96fbe3f3dd				|
 | 	15.		| Section 2: Accounts, Loans, Cards - the postman collection of rest apis for accounts, loans and cards microservices				| 36f30c8555ed2660632c7cbd098675a3d8c2f6e9				|
+| 	16.		| Section 2: Cards - Complete code of Cards microservice																			| ccba1c9e7d0359c9b1de296055e99024e4d25436				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

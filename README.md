@@ -33,6 +33,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	16.		| Section 2: Cards - Complete code of Cards microservice																			| ccba1c9e7d0359c9b1de296055e99024e4d25436				|
 | 	17.		| Section 4: Accounts - Dockerfile																									| 7d8aa59f7216ec17d14e8029d0189a092e6f5257				|
 | 	18.		| Section 4: Loans - BuildPacks																										| 28b1ce31dc004c4b532b219eaddf5a5dbd0fd0af				|
+| 	19.		| Section 4: Cards - Google JIB																										| e487e96e928cb284f2f7859309bec0f7b5124aa8				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

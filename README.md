@@ -36,6 +36,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	19.		| Section 4: Cards - Google JIB																										| e487e96e928cb284f2f7859309bec0f7b5124aa8				|
 | 	20.		| Section 4: Accounts - added docker-compose.yml																					| d509f4035836fa2d6c2f1b7b6e7dd68c0bacbc13				|
 | 	21.		| Section 6: Accounts - @Value annotation																							| 9915cd9ed1d8091b4abbfcd5da89ce8ea80dfd47				|
+| 	22.		| Section 6: Accounts - Environment interface																						| 93a6746b4d8c4ee79d261b0c2914bcf72ef7ecf6				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

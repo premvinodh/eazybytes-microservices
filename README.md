@@ -38,6 +38,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	21.		| Section 6: Accounts - @Value annotation																							| 9915cd9ed1d8091b4abbfcd5da89ce8ea80dfd47				|
 | 	22.		| Section 6: Accounts - Environment interface																						| 93a6746b4d8c4ee79d261b0c2914bcf72ef7ecf6				|
 | 	23.		| Section 6: Accounts - @ConfigurationProperties annotation																			| 4913b2b429df7fa70bcf1ea03a5c2fcc04d77504				|
+| 	24.		| Section 6: Accounts - Profiles																									| cf86a9b1bb91ec034517ab84ab7ba6f3908d558e				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

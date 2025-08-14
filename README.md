@@ -40,6 +40,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	23.		| Section 6: Accounts - @ConfigurationProperties annotation																			| 4913b2b429df7fa70bcf1ea03a5c2fcc04d77504				|
 | 	24.		| Section 6: Accounts - Profiles																									| cf86a9b1bb91ec034517ab84ab7ba6f3908d558e				|
 | 	25.		| Section 6: Loans - @Value annotation, Environment interface, @ConfigurationProperties annotation, Profiles						| b28eb8cafd375db8812f766d9ef586bb00547b37				|
+| 	26.		| Section 6: Cards - @Value annotation, Environment interface, @ConfigurationProperties annotation, Profiles						| 8bb3c9e13fd5e93e5a36fbc4ed3742abb8a46b2f				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

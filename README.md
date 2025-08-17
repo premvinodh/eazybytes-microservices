@@ -42,6 +42,8 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	25.		| Section 6: Loans - @Value annotation, Environment interface, @ConfigurationProperties annotation, Profiles						| b28eb8cafd375db8812f766d9ef586bb00547b37				|
 | 	26.		| Section 6: Cards - @Value annotation, Environment interface, @ConfigurationProperties annotation, Profiles						| 8bb3c9e13fd5e93e5a36fbc4ed3742abb8a46b2f				|
 | 	27.		| Section 6: ConfigServer - initial code																							| cfaab6a3d0793623fc308a5586c45862ca68731b				|
+| 	28.		| Section 6: ConfigServer - Reading configurations from classpath location of configserver											| 89b8617c61d9cb1a90ac8ecfa16dee29645db051				|
+| 	29.		| Section 6: Config Client - Reading configurations from configserver in our accounts, loans and cards microservices				| 21460f9dd0d732d04c23e99e640679f832ac650b				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

@@ -45,7 +45,8 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	28.		| Section 6: ConfigServer - Reading configurations from classpath location of configserver											| 89b8617c61d9cb1a90ac8ecfa16dee29645db051				|
 | 	29.		| Section 6: Config Client - Reading configurations from configserver in our accounts, loans and cards microservices				| 21460f9dd0d732d04c23e99e640679f832ac650b				|
 | 	30.		| Section 6: ConfigServer - Reading configurations from a filesystem																| 60ed08351fc288ae56db40007511032ac518136a				|
-
+| 	31.		| Section 6: ConfigServer - Reading configurations from a GitHub repository															| ca6067b5f7d238fd851f32535bdf97cd9a26d83e				|
+ 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
 1. First, clone the repository using git as shown below

@@ -46,6 +46,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	29.		| Section 6: Config Client - Reading configurations from configserver in our accounts, loans and cards microservices				| 21460f9dd0d732d04c23e99e640679f832ac650b				|
 | 	30.		| Section 6: ConfigServer - Reading configurations from a filesystem																| 60ed08351fc288ae56db40007511032ac518136a				|
 | 	31.		| Section 6: ConfigServer - Reading configurations from a GitHub repository															| ca6067b5f7d238fd851f32535bdf97cd9a26d83e				|
+| 	32.		| Section 6: ConfigServer - Encryption & Decryption of properties inside Config server												| d167e84cdae9be5e07c45310e83ce9c53af1c32a				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

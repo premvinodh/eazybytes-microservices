@@ -47,6 +47,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	30.		| Section 6: ConfigServer - Reading configurations from a filesystem																| 60ed08351fc288ae56db40007511032ac518136a				|
 | 	31.		| Section 6: ConfigServer - Reading configurations from a GitHub repository															| ca6067b5f7d238fd851f32535bdf97cd9a26d83e				|
 | 	32.		| Section 6: ConfigServer - Encryption & Decryption of properties inside Config server												| d167e84cdae9be5e07c45310e83ce9c53af1c32a				|
+| 	33.		| Section 6: Accounts, Loans, Cards - Refresh configurations at runtime using refresh actuator path									| fb4190f060de1f0502644b398bbff5fe187f8f36				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

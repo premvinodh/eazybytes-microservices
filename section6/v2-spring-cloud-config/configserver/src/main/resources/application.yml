@@ -11,7 +11,7 @@ spring:
                 # search-locations: "classpath:/config"
                 # search-locations: "file:///C://Users//ManjuAni//Documents//configserver-local"
               git:
-                uri: https://github.com/eazybytes/eazybytes-config.git
+                uri: https://github.com/premvinodh/eazybytes-config.git
                 default-label: main
                 timeout: 5
                 clone-on-start: true

@@ -22,3 +22,8 @@ spring:
     show-sql: true
 
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

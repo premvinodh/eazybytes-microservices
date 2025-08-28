@@ -49,6 +49,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	32.		| Section 6: ConfigServer - Encryption & Decryption of properties inside Config server												| d167e84cdae9be5e07c45310e83ce9c53af1c32a				|
 | 	33.		| Section 6: Accounts, Loans, Cards - Refresh configurations at runtime using refresh actuator path									| fb4190f060de1f0502644b398bbff5fe187f8f36				|
 | 	34.		| Section 6: Accounts, Loans, Cards, ConfigServer - Refresh configurations at runtime using busrefresh actuator path				| 332f5f6259b0f541b0d2b38d5cbd32b80876511d				|
+| 	35.		| Section 6: Accounts, Loans, Cards, ConfigServer - Refresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor	| b41196724cf2eaf6dcad4ae26cbb9882ade5bb47				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

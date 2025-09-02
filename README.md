@@ -50,6 +50,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	33.		| Section 6: Accounts, Loans, Cards - Refresh configurations at runtime using refresh actuator path									| fb4190f060de1f0502644b398bbff5fe187f8f36				|
 | 	34.		| Section 6: Accounts, Loans, Cards, ConfigServer - Refresh configurations at runtime using busrefresh actuator path				| 332f5f6259b0f541b0d2b38d5cbd32b80876511d				|
 | 	35.		| Section 6: Accounts, Loans, Cards, ConfigServer - Refresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor	| b41196724cf2eaf6dcad4ae26cbb9882ade5bb47				|
+| 	36.		| Section 6: Updating Docker Compose file to adapt Config Server changes & Optimizing docker-compose.yml							| e93b9ab5af2ec168aa19433735562f6682f6a1e7				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

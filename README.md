@@ -52,6 +52,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	35.		| Section 6: Accounts, Loans, Cards, ConfigServer - Refresh config at runtime using Spring Cloud Bus & Spring Cloud Config monitor		| b41196724cf2eaf6dcad4ae26cbb9882ade5bb47				|
 | 	36.		| Section 6: Updating Docker Compose file to adapt Config Server changes & Optimizing docker-compose.yml								| e93b9ab5af2ec168aa19433735562f6682f6a1e7				|
 | 	37.		| Section 6: Updating Docker Compose file to adapt Config Server changes & Optimizing docker-compose.yml for prod and qa environments	| 94e7a4d5f6f306a446878cfc2e5436b722886754				|
+| 	38.		| Section 7: MySQL DB containers for microservices - initial code																		| 25bb4780cce8aa8a01d40705b9c44f16860c8634				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

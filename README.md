@@ -53,6 +53,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	36.		| Section 6: Updating Docker Compose file to adapt Config Server changes & Optimizing docker-compose.yml								| e93b9ab5af2ec168aa19433735562f6682f6a1e7				|
 | 	37.		| Section 6: Updating Docker Compose file to adapt Config Server changes & Optimizing docker-compose.yml for prod and qa environments	| 94e7a4d5f6f306a446878cfc2e5436b722886754				|
 | 	38.		| Section 7: MySQL DB containers for microservices - initial code																		| 25bb4780cce8aa8a01d40705b9c44f16860c8634				|
+| 	39.		| Section 7: Updated microservices code to replace H2 DB with MySQL DB																	| 0746ccff9cbae9937949531ba7420c3cde8db3f1				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

@@ -55,6 +55,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	38.		| Section 7: MySQL DB containers for microservices - initial code																		| 25bb4780cce8aa8a01d40705b9c44f16860c8634				|
 | 	39.		| Section 7: Updated microservices code to replace H2 DB with MySQL DB																	| 0746ccff9cbae9937949531ba7420c3cde8db3f1				|
 | 	40.		| Section 7: Updated Docker compose file in default folder to create & use MySQL DB in microservices									| c5497f3654d9d5ae62ea8962898e4e20bef21de1				|
+| 	41.		| Section 7: Updated Docker compose file in qa and prod folders to create & use MySQL DB in microservices								| c8bd550039a16b6eb2e1103113d1e9623e21db55				|
  
 ### How to get certain commit from GitHub project
 ------------------------------------------------

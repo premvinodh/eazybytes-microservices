@@ -58,6 +58,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	41.		| Section 7: Updated Docker compose file in qa and prod folders to create & use MySQL DB in microservices								| 2be7bc7bed069ad79cef7e1585ad00c75c0c6ad0				|
 | 	42.		| Section 8: Service Discovery & Registration - initial code																			| 5b9760d80231aee9a22bf80874114b59d9e8218e				|
 | 	43.		| Section 8: Service Discovery & Registration - eureka server																			| 7ea7f203ce9c7884b8ea8c761bb5dfa26b0a9052				|
+| 	44.		| Section 8: Service Discovery & Registration - accounts, loans, cards microservices as eureka clients									| bc8a4034534316519ddd70b6b1647f0edfe0e822				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

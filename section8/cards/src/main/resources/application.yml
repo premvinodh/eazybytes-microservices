@@ -26,3 +26,27 @@ management:
     web:
       exposure:
         include: "*"
+  endpoint: # on shutdown of accounts microservice - deregister from Eureka server dashboard
+    shutdown:
+      access: unrestricted
+  info: # enable the environment info related information via actuator endpoints
+    env:
+      enabled: true
+
+# Eureka Server/Client Properties
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka/
+
+# Below information would be used to register
+# loans microservice on Eureka Server dashboard
+info:
+  app:
+    name: "cards"
+    description: "Eazy Bank Cards Application"
+    version: "1.0.0"

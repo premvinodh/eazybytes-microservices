@@ -9,10 +9,11 @@ import io.swagger.v3.oas.annotations.info.License;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
-
+@EnableFeignClients
 // Explicitly tell SpringBootApplication the location of the controllers, etc
 // if they are not in the same package as this class
 /*@ComponentScans({ @ComponentScan("com.eazybytes.accounts.controller") })

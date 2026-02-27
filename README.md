@@ -60,6 +60,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	43.		| Section 8: Service Discovery & Registration - eureka server																			| 7ea7f203ce9c7884b8ea8c761bb5dfa26b0a9052				|
 | 	44.		| Section 8: Service Discovery & Registration - accounts, loans, cards microservices as eureka clients									| bc8a4034534316519ddd70b6b1647f0edfe0e822				|
 | 	45.		| Section 8: Service Discovery & Registration - Feign client code changes																| 3187fed288e917d56ba5daab26c1610299f15889				|
+| 	46.		| Section 8: Service Discovery & Registration - Docker images																			| 6bae0010b1f7c9749e6deb25068c5e43ab23a660				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

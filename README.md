@@ -62,6 +62,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	45.		| Section 8: Service Discovery & Registration - Feign client code changes																| 3187fed288e917d56ba5daab26c1610299f15889				|
 | 	46.		| Section 8: Service Discovery & Registration - Docker images																			| 6bae0010b1f7c9749e6deb25068c5e43ab23a660				|
 | 	47.		| Section 8: Service Discovery & Registration - Docker compose changes																	| b2d731824e5433846d9bb59f376acf9acb792b8c				|
+| 	48.		| Section 8: Service Discovery & Registration - Client-side load balancing																| dfdac7c4bd6819f931ff14a3f369380407fbee8c				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

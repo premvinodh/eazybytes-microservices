@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: "gatewayserver"
+  config:
+    import: "optional:configserver:http://localhost:8071/"
+  cloud:
+    gateway:      # Telling my gateway
+      discovery:  # Please connect with the discovery server - which is eurekaserver.
+        locator:  # and locate all the details of the  microservices - once located all the info about individual microservices I want my gateway server to use the same to forward the traffic from external clients to the individual microservices
+          enabled: true
+          lower-case-service-id: true # With this we are telling to our gateway server. Please accept the service name with the completely lowercase.
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    gateway:
+      access: unrestricted
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: "gatewayserver"
+    description: "Eazy Bank Gateway Server Application"
+    version: "1.0.0"
+
+logging:
+  level:
+    com:
+      eazybytes:
+        gatewayserver: DEBUG

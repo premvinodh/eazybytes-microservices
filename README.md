@@ -64,6 +64,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	47.		| Section 8: Service Discovery & Registration - Docker compose changes																	| b2d731824e5433846d9bb59f376acf9acb792b8c				|
 | 	48.		| Section 8: Service Discovery & Registration - Client-side load balancing																| dfdac7c4bd6819f931ff14a3f369380407fbee8c				|
 | 	49.		| Section 9: Edge Server/API Gateway - initial code																						| c21d9877df0ba5351f82adf52aaed61e7ec562da				|
+| 	50.		| Section 9: Edge Server/API Gateway - gateway server																					| 1e63a3ee5b451c752799841471b895441fbd5d1b				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

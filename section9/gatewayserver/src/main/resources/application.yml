@@ -7,7 +7,7 @@ spring:
     gateway:      # Telling my gateway
       discovery:  # Please connect with the discovery server - which is eurekaserver.
         locator:  # and locate all the details of the  microservices - once located all the info about individual microservices I want my gateway server to use the same to forward the traffic from external clients to the individual microservices
-          enabled: true
+          enabled: false
           lower-case-service-id: true # With this we are telling to our gateway server. Please accept the service name with the completely lowercase.
 
 management:

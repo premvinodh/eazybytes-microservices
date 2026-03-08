@@ -67,6 +67,9 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	50.		| Section 9: Edge Server/API Gateway - gateway server																					| 1e63a3ee5b451c752799841471b895441fbd5d1b				|
 | 	51.		| Section 9: Edge Server/API Gateway - Custom Routing using Spring Cloud Gateway														| b0ddf45cd9f930c4846bbc860f02e8fb482f32ef				|
 | 	52.		| Section 9: Edge Server/API Gateway - addResponseHeader filter																			| 6678011c7dcb57224b13a4718166360437f2a4fa				|
+| 	53.		| Section 9: Edge Server/API Gateway - logging correlation-id from gateway to accounts, loans and cards microservices					| bdd5f25a1213a52ac13b8277e54399a3c0daa2dd				|
+| 	54.		| Section 9: Edge Server/API Gateway - readiness and liveliness probes in accounts, loans and cards microservices						| 98141dc889dc5114c26938beb5de8c60ed535522				|
+| 	55.		| Section 9: Edge Server/API Gateway - Docker compose changes																			| 6659898eb5759f5e2767fbd86a7b665d07a1a25f				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

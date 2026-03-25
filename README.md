@@ -72,6 +72,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	55.		| Section 9: Edge Server/API Gateway - Docker compose changes																			| 6659898eb5759f5e2767fbd86a7b665d07a1a25f				|
 | 	56.		| Section 10: Resiliency - initial code																									| ca91499d95fe32c0d4f1dc9469acf3430df8aa6c				|
 | 	57.		| Section 10: Resiliency - circuit breaker pattern in gateway for accounts microservice													| fac79b7c7b1101dc5a46d7759cc6fa2d41aa994d				|
+| 	58.		| Section 10: Resiliency - circuit breaker pattern in gateway for accounts microservice with fallback									| 035f6e095ffd35b8e00b4fd15cf1f71211c0fd2f				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

@@ -15,9 +15,10 @@ import org.springframework.web.bind.annotation.RequestParam;
  *          it will try to get all the instance details with the logical name "cards"
  * </pre>
  */
-@FeignClient("cards")
+@FeignClient(name = "cards", fallback = CardsFallback.class)
 public interface CardsFeignClient {
     /**
+     * <pre>
      * This method signature has to match with the actual REST API method that we have defined inside the cards microservice.
      * If you go to the cards microservice, inside the CardsController, we have a method
      *      @GetMapping("/api/fetch")
@@ -27,6 +28,7 @@ public interface CardsFeignClient {
      * So I need to create the very similar method inside my CardsFeignClient interface here
      *    Just copy the same signature here
      *          Remove the validation code - because the validations will be performed at the REST API level but not here
+     * </pre>
      */
     @GetMapping(value = "/api/fetch",consumes = "application/json")
     public ResponseEntity<CardsDto> fetchCardDetails(@RequestHeader("eazybank-correlation-id") String correlationId,

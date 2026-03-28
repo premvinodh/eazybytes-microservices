@@ -12,6 +12,9 @@ spring:
           enabled: false
           lower-case-service-id: true # With this we are telling to our gateway server.
                                       #Please accept the service name with the completely lowercase.
+      httpclient:
+        connect-timeout: 1000 # request timeout in millisecs
+        response-timeout: 2s  # response timeout in secs
 
 management:
   endpoints:

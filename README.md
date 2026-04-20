@@ -77,6 +77,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	60.		| Section 10: Resiliency - http timeouts																								| c58a923bef02b211ca11bdad87034f204faed16f				|
 | 	61.		| Section 10: Resiliency - retry pattern in gateway for loans microservice																| 3a64fa068da5ccb969439f235598d76092f3e2e2				|
 | 	62.		| Section 10: Resiliency - retry pattern in accounts microservice																		| a98d6665e6a0741d82529b2f45152ca8b0ba60fc				|
+| 	63.		| Section 10: Resiliency - retry pattern in accounts microservice - with ignoreExceptions and retryExceptions							| 7884a12c61841e609df77c169f803b5f77b42372				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

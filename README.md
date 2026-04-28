@@ -78,6 +78,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	61.		| Section 10: Resiliency - retry pattern in gateway for loans microservice																| 3a64fa068da5ccb969439f235598d76092f3e2e2				|
 | 	62.		| Section 10: Resiliency - retry pattern in accounts microservice																		| a98d6665e6a0741d82529b2f45152ca8b0ba60fc				|
 | 	63.		| Section 10: Resiliency - retry pattern in accounts microservice - with ignoreExceptions and retryExceptions							| 7884a12c61841e609df77c169f803b5f77b42372				|
+| 	64.		| Section 10: Resiliency - redis rate limitter pattern in gateway server																| fbd7e7426fa3822a23b91a053d63d45c8db1bcc3				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

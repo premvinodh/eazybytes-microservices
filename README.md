@@ -81,6 +81,8 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	64.		| Section 10: Resiliency - redis rate limitter pattern in gateway server																| fbd7e7426fa3822a23b91a053d63d45c8db1bcc3				|
 | 	65.		| Section 10: Resiliency - rate limiter pattern in accounts microservice																| 84c3fccbbb7a10d4f8b9ec076ce5b8b642640169				|
 | 	66.		| Section 10: Resiliency - docker images and docker compose changes for resiliency patterns												| 5afd5f53e498264e17ae63cda2b98e53f04eebc1				|
+| 	67.		| Section 11: Observability & Monitoring - initial code																					| a69d7ff7d45b65d5afdf8a417d92b327120a7511				|
+| 	68.		| Section 11: Observability & Monitoring - Logging using Grafana, Loki & Promtail														| 826a0155ab0c46b0ee03c46627cb0c2326eeebe7				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------

@@ -44,6 +44,9 @@ management:
   info:             # enable the environment info related information via actuator endpoints
     env:
       enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
 
 # Eureka Server/Client Properties
 eureka:

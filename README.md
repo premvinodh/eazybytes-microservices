@@ -84,6 +84,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	67.		| Section 11: Observability & Monitoring - initial code																					| a69d7ff7d45b65d5afdf8a417d92b327120a7511				|
 | 	68.		| Section 11: Observability & Monitoring - Logging using Grafana, Loki & Promtail														| 826a0155ab0c46b0ee03c46627cb0c2326eeebe7				|
 | 	69.		| Section 11: Observability & Monitoring - Logging using Grafana, Loki & Promtail - Explore tab of Grafana now working					| c133f94f19201fe0ad7ca67ae6c8746beb4b380d				|
+| 	70.		| Section 11: Observability & Monitoring - Metrics collection using Micrometer, Prometheus and Grafana									| aebb4cfda7d5fbefccf5e15417ef8caeafe0ff69				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
